@@ -1,2 +1,2 @@
-# Pokedex-EDA
-Pokedex Exploratory Data Analysis
+# Pokedex Exploratory Data Analysis
+
